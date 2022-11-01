@@ -225,19 +225,19 @@ let pdvsJson = [
         name: 'PDV 41',
         descripion:'ELETRO',
         img: 'images/1.jpg',
-        link: 'http://192.168.175.133:9898/normal.html'
+        link: 'http://192.168.175.141:9898/normal.html'
     },
     {
         name: 'PDV 42',
         descripion:'ELETRO',
         img: 'images/1.jpg',
-        link: 'http://192.168.175.133:9898/normal.html'
+        link: 'http://192.168.175.142:9898/normal.html'
     },
     {
         name: 'PDV 43',
         descripion:'ELETRO',
         img: 'images/1.jpg',
-        link: 'http://192.168.175.133:9898/normal.html'
+        link: 'http://192.168.175.143:9898/normal.html'
     },
     {
         name: 'PDV 02',
