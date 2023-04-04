@@ -3,19 +3,19 @@ let pdvsJson = [
         name: 'PDV 1',
         descripion:'Frente de Loja',
         img: 'images/1.jpg',
-        link: 'http://192.168.175.101:9898/normal.html'
+        link: 'http://192.168.31.136:9898/normal.html'
     },
     {
-        name: 'PDV DRIVE',
-        descripion:'DRIVE',
+        name: 'PDV 2',
+        descripion:'Frente de Loja',
         img: 'images/1.jpg',
-        link: 'http://192.168.175.129:9898/normal.html'
+        link: 'http://192.168.31.102:9898/normal.html'
     },
     {
         name: 'PDV 3',
         descripion:'Frente de Loja',
         img: 'images/1.jpg',
-        link: 'http://192.168.175.103:9898/normal.html'
+        link: 'http://192.168.31.115:9898/normal.html'
     },
     {
         name: 'PDV 4',
