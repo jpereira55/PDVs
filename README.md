@@ -1,2 +1,2 @@
-# gerenciamento-dos-pdvs
+# pdvs
  Sistema feito para acessar local o pdv
