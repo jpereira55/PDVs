@@ -11,7 +11,7 @@ pdvsJson.map((pdv) => {
     pdvsclone.querySelector('.card p').innerHTML = pdv.descripion;
 
 
-    if(pdv.descripion === 'Drive') {
+    if(pdv.descripion === 'DRIVE') {
       pdvsclone.querySelector('.card').style.background = '#E19200';
     }
     if(pdv.name === 'PDV 26') {
