@@ -14,10 +14,10 @@ pdvsJson.map((pdv) => {
     if(pdv.name === 'PDV DRIVE') {
       pdvsclone.querySelector('.card').style.background = '#E19200';
     }
-    if(pdv.name === 'PDV 30') {
+    if(pdv.name === 'PDV 26') {
       pdvsclone.querySelector('.card').style.background = '#8B0000';
     }
-    if(pdv.name === 'PDV 31') {
+    if(pdv.name === 'PDV 27') {
       pdvsclone.querySelector('.card').style.background = '#8B0000';
     }
     if(pdv.descripion === 'balcão atacado') {
