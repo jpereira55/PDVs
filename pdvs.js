@@ -161,5 +161,5 @@ let pdvsJson = [
         img: 'images/1.jpg',
         link: 'http://192.168.31.127:9898/normal.html'
     },
-
+    
 ];
