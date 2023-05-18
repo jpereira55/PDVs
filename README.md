@@ -1,2 +1,2 @@
 # pdvs
- Sistema feito para acessar local o pdv
+ Site feito com os número e ip de cada pdv para acesso local.
