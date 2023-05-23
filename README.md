@@ -1,2 +1,2 @@
 # pdvs
- Site feito com os número e ip de cada pdv para acesso local.
+ Site feito com os endereços ip's de cada pdv para acesso.
